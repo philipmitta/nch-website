@@ -1,0 +1,12 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local render checks
+.render-*.png
+
+# Node (only if tooling is added later)
+node_modules/
